@@ -13,7 +13,7 @@ WSNDataFerry develops modular software and hardware solutions for:
 - Networking portals for WSN management
 - Scalable and maintainable network stack solutions
 ### UAV System Architecture
-![UAV Architecture](assets/uav_diagram.png)
+![UAV Architecture](profile/assests/uav_diagram.png)
 ---
 
 ## Repositories
